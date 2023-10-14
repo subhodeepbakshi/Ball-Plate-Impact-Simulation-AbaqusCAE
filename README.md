@@ -71,4 +71,6 @@ The friction coefficient of 0.2 between the ball and the plate played a crucial 
 
 The simulation results have highlighted critical parameters such as maximum stress points, displacement patterns, and contact forces. These insights can inform design considerations, helping engineers optimize structures for impact resistance and mitigate potential failure modes.
 
-![Simulation Video](https://github.com/subhodeepbakshi/Ball-Plate-Impact-Simulation-AbaqusCAE/blob/main/Ball%20Impact.mp4)
+![Ball_Impact](https://github.com/subhodeepbakshi/Ball-Plate-Impact-Simulation-AbaqusCAE/assets/66860506/87f4e7a3-70c8-42de-a08d-320c8f523b9d)
+
+[Watch the Simulation Video](https://github.com/your_username/your_repository/raw/main/videos/simulation_video.mp4)
