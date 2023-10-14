@@ -70,3 +70,5 @@ At the lower velocity of 10 m/s, the plate exhibited a certain level of deformat
 The friction coefficient of 0.2 between the ball and the plate played a crucial role in the interaction dynamics. It influenced the contact forces and the distribution of stresses, impacting the overall structural integrity during the collision.
 
 The simulation results have highlighted critical parameters such as maximum stress points, displacement patterns, and contact forces. These insights can inform design considerations, helping engineers optimize structures for impact resistance and mitigate potential failure modes.
+
+![Simulation Video](https://github.com/subhodeepbakshi/Ball-Plate-Impact-Simulation-AbaqusCAE/blob/main/Ball%20Impact.mp4)
